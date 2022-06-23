@@ -1,5 +1,5 @@
-baseURL = "https://orange-moss-0005cf503.1.azurestaticapps.net//"
-title = "this much i know"
+baseURL = "https://github.dsrkafuu.net/hugo-theme-fuji/"
+title = "this much i know..."
 
 theme = "fuji"
 hasCJKLanguage = true
@@ -31,12 +31,12 @@ home = ["HTML", "RSS", "SearchIndex"]
 post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
-author = "DSRKafuU"                # You can also set author in post front matter individually
-subTitle = "tbd"
-defaultTheme = "auto"              # default theme when first visit (auto|dark|light)
+author = "smithpat"                # You can also set author in post front matter individually
+subTitle = "<put tagline here>"
+defaultTheme = "dark"              # default theme when first visit (auto|dark|light)
 
 # Source URL of the website, will appear in the footer
-sourceURL = "https://github.com/dsrkafuu/hugo-theme-fuji"
+# sourceURL = "https://github.com/dsrkafuu/hugo-theme-fuji"
 
 # Use CloudFlare Workers to accelerate the Google Analytics
 # If you are using this please comment the googleAnalytics above
@@ -64,7 +64,7 @@ copyrightStartYear = "2020"
 
 # Open Graph & Twitter Card variables
 # You can also set description and images in post front matter individually
-description = "A minimal Hugo theme with nice theme color."
+description = "A minimal Hugo theme with nice theme color..."
 og = "/img/og.png"                                          # This will use the image called og.png in static/img folder
 
 # Posts shown in homepage
@@ -136,18 +136,18 @@ name = "RSS"
 url = "/index.xml"
 weight = 5
 
-[[menu.link]]
-name = "GitHub"
-url = "https://github.com/dsrkafuu"
-weight = 1
-[[menu.link]]
-name = "Twitter"
-url = "https://twitter.com/dsrkafuu"
-weight = 2
-[[menu.link]]
-name = "bilibili"
-url = "https://space.bilibili.com/19767474"
-weight = 3
+#[[menu.link]]
+#name = "GitHub"
+#url = "https://github.com/dsrkafuu"
+#weight = 1
+#[[menu.link]]
+#name = "Twitter"
+#url = "https://twitter.com/dsrkafuu"
+#weight = 2
+#[[menu.link]]
+#name = "bilibili"
+#url = "https://space.bilibili.com/19767474"
+#weight = 3
 
 [build]
 noJSConfigInAssets = true
