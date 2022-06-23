@@ -1,5 +1,5 @@
-baseURL = "https://github.dsrkafuu.net/hugo-theme-fuji/"
-title = "Hugo Theme Fuji"
+baseURL = "https://orange-moss-0005cf503.1.azurestaticapps.net//"
+title = "this much i know"
 
 theme = "fuji"
 hasCJKLanguage = true
@@ -32,7 +32,7 @@ post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
 author = "DSRKafuU"                # You can also set author in post front matter individually
-subTitle = "A minimal Hugo theme."
+subTitle = "tbd"
 defaultTheme = "auto"              # default theme when first visit (auto|dark|light)
 
 # Source URL of the website, will appear in the footer
