@@ -1,3 +1,6 @@
 [submodule "thismuchiknow/themes/fuji"]
 	path = thismuchiknow/themes/fuji
 	url = https://github.com/dsrkafuu/hugo-theme-fuji.git
+[submodule "thismuchiknow/themes/minimal-bootstrap-hugo-theme"]
+	path = thismuchiknow/themes/minimal-bootstrap-hugo-theme
+	url = https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme.git
