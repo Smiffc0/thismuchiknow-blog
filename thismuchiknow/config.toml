@@ -1,6 +1,6 @@
 baseURL = "https://orange-moss-0005cf503.1.azurestaticapps.net/"
 languageCode = "en-us"
-title = "Words+Pictures"
+title = "this much i know"
 theme = "minimal-bootstrap-hugo-theme"
 
 [taxonomies]
